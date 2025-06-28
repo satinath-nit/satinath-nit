@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satinath Mondal
 - 👀 I’m interested in exploring new technology areas.
-- 🌱 I’m currently learning solution architecture on AWS/Azure 
+- 🌱 Staff Software Engineer dedicated to crafting architecture designs and delivering high-quality, scalable and clean code.
 - 📫 I am reachable at satinathra@gmail.com
 
 <!---
