@@ -20,9 +20,16 @@ With extensive experience in enterprise software development, I specialize in bu
 
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D4AA?style=for-the-badge&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white)
 
-Currently exploring: **RAG (Retrieval-Augmented Generation)**, **AI Agents**, **MCP Servers**, **LLMs**
+**RAG (Retrieval-Augmented Generation)**, **AI Agents**, **MCP Servers**, **LLMs**
+
+I'm currently diving deep into the AI/ML ecosystem, with a particular focus on building intelligent applications using Large Language Models, RAG architectures, and AI agents. I believe in the transformative potential of AI in software development and am actively exploring ways to integrate these technologies into practical solutions.
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,7 +38,6 @@ Currently exploring: **RAG (Retrieval-Augmented Generation)**, **AI Agents**, **
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ## Current Interests
