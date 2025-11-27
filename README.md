@@ -1,6 +1,6 @@
 # Hi there, I'm Satinath Mondal
 
-**Staff Software Engineer** | Deerfield, IL
+**Staff Software Engineer** | Chicago, IL
 
 I'm a passionate software engineer dedicated to crafting architecture designs and delivering high-quality, scalable, and clean code. I enjoy exploring new technology areas and staying at the forefront of software development practices.
 
