@@ -49,6 +49,7 @@ I'm currently diving deep into the AI/ML ecosystem, with a particular focus on b
 - **[sample-mcp-server](https://github.com/satinath-nit/sample-mcp-server)** - MCP Server implementation example in Python
 - **[llm-rag-cookbook](https://github.com/satinath-nit/llm-rag-cookbook)** - RAG implementation patterns and recipes
 - **[promptlint](https://github.com/satinath-nit/promptlint)** - A lightweight, policy-as-code tool for validating LLM prompts against enterprise compliance rules
+- **[ai-dev-playbook](https://github.com/satinath-nit/ai-dev-playbook)**  - A curated collection of tested prompt patterns and workflows for real coding tasks that work in ANY AI coding assistant - GitHub Copilot, Cursor, Windsurf, ChatGPT, Claude, and more.
 
 
 ## Let's Connect
