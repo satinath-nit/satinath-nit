@@ -50,6 +50,7 @@ I'm currently diving deep into the AI/ML ecosystem, with a particular focus on b
 - **[llm-rag-cookbook](https://github.com/satinath-nit/llm-rag-cookbook)** - RAG implementation patterns and recipes
 - **[promptlint](https://github.com/satinath-nit/promptlint)** - A lightweight, policy-as-code tool for validating LLM prompts against enterprise compliance rules
 - **[ai-dev-playbook](https://github.com/satinath-nit/ai-dev-playbook)**  - A curated collection of tested prompt patterns and workflows for real coding tasks that work in ANY AI coding assistant - GitHub Copilot, Cursor, Windsurf, ChatGPT, Claude, and more.
+- **[ai-usage-measurement-framework](https://github.com/satinath-nit/ai-usage-measurement-framework)** - Measure and analyze AI-assisted development in git repositories. Track usage of GitHub Copilot, Windsurf, Cursor, ChatGPT, Claude, and other AI coding tools by analyzing commit history and Agents.md files.
 
 
 ## Let's Connect
