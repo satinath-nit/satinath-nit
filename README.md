@@ -39,6 +39,7 @@ Currently focused on building AI-native applications using RAG architectures, AI
 - **[ai-usage-measurement-framework](https://github.com/satinath-nit/ai-usage-measurement-framework)** - Measure AI-assisted development in git repositories
 - **[sample-mcp-server](https://github.com/satinath-nit/sample-mcp-server)** - MCP Server implementation in Python
 - **[llm-rag-cookbook](https://github.com/satinath-nit/llm-rag-cookbook)** - RAG implementation patterns and recipes
+- **[envguard](https://github.com/satinath-nit/envguard)** - Type-safe environment variable validation for Node.js, Bun, and other JavaScript runtimes
 
 ## Let's Connect
 
