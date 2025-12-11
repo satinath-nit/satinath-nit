@@ -37,7 +37,7 @@ Currently focused on building AI-native applications using RAG architectures, AI
 - **[promptlint](https://github.com/satinath-nit/promptlint)** - Policy-as-code tool for validating LLM prompts against enterprise compliance rules
 - **[ai-dev-playbook](https://github.com/satinath-nit/ai-dev-playbook)** - Tested prompt patterns and workflows for AI coding assistants
 - **[ai-usage-measurement-framework](https://github.com/satinath-nit/ai-usage-measurement-framework)** - Measure AI-assisted development in git repositories
-- **[sample-mcp-server](https://github.com/satinath-nit/sample-mcp-server)** - MCP Server implementation in Python
+- **[ai-compass](https://github.com/satinath-nit/ai-compass)** - A comprehensive learning repository for engineers at all levels to navigate the AI landscape. From foundational concepts to production-ready implementations, this resource guides you through AI/ML fundamentals, Large Language Models, prompt engineering, and modern GenAI tools.
 - **[llm-rag-cookbook](https://github.com/satinath-nit/llm-rag-cookbook)** - RAG implementation patterns and recipes
 - **[envguard](https://github.com/satinath-nit/envguard)** - Type-safe environment variable validation for Node.js, Bun, and other JavaScript runtimes
 
