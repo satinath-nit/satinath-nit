@@ -31,6 +31,7 @@ Currently focused on building AI-native applications using RAG architectures, AI
 - **[ai-usage-measurement-framework](https://github.com/satinath-nit/ai-usage-measurement-framework)** - Measure AI-assisted development in git repositories
 - **[agentspec](https://github.com/satinath-nit/agentspec)** - GEN AI Customization using Agents Instructions
 - **[envguard](https://github.com/satinath-nit/envguard)** - Type-safe environment variable validation for Node.js, Bun, and other JavaScript runtimes
+- **[OpenTrade.ai](https://github.com/satinath-nit/OpenTrade.ai)** - Multi-agent AI stock trading advisor powered by LangGraph, with both a Streamlit visual dashboard and a CLI interface. Uses a local LLM (Ollama or LM Studio) and free stock data from Yahoo Finance.
 
 ## Let's Connect
 
