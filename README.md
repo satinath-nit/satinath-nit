@@ -33,11 +33,5 @@ Currently focused on building AI-native applications using RAG architectures, AI
 - **[envguard](https://github.com/satinath-nit/envguard)** - Type-safe environment variable validation for Node.js, Bun, and other JavaScript runtimes
 - **[OpenTrade.ai](https://github.com/satinath-nit/OpenTrade.ai)** - Multi-agent AI stock trading advisor powered by LangGraph, with both a Streamlit visual dashboard and a CLI interface. Uses a local LLM (Ollama or LM Studio) and free stock data from Yahoo Finance.
 
-## Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satinathra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satinath-nit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satinathmondal/)
-
 ---
 
