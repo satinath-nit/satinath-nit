@@ -25,7 +25,7 @@ Currently focused on building AI-native applications using RAG architectures, AI
 
 ## Featured Projects
 
-- **[OpenExplorer]([https://github.com/satinath-nit/promptlint](https://github.com/satinath-nit/OpenExplorer)** - MacOS Explorer - A Windows like explorer experience
+- **[OpenExplorer](https://github.com/satinath-nit/OpenExplorer)** - MacOS Explorer - A Windows like explorer experience
 - **[ai-compass](https://github.com/satinath-nit/ai-compass)** - A comprehensive learning repository for engineers at all levels to navigate the AI landscape. From foundational concepts to production-ready implementations, this resource guides you through AI/ML fundamentals, Large Language Models, prompt engineering, and modern GenAI tools.
 - **[autonomous-sdlc](https://github.com/bitbitcodes/autonomous-sdlc)** - autonomous-sdlc scaffolds 40 AI agents into your project repo to execute the full software development lifecycle — from a spec to production-ready code with tests, security audit, CI/CD, and monitoring.
 - **[promptlint](https://github.com/satinath-nit/promptlint)** - Policy-as-code tool for validating LLM prompts against enterprise compliance rules
